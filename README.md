@@ -64,5 +64,5 @@ TODO
 CHANGELOG
 ---------
 
-* Adapted for build and tests with newer Jenkins-versions and Maven
+* v1.4.0 - Adapted for build and tests with newer Jenkins-versions and Maven, added xerces-library
 
