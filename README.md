@@ -61,3 +61,8 @@ TODO
 
 * Add new operation that replaces strings with regular expressions.
 
+CHANGELOG
+---------
+
+* Adapted for build and tests with newer Jenkins-versions and Maven
+
