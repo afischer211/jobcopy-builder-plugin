@@ -59,10 +59,10 @@ public abstract String AbstractXmlJobcopyOperation::perform(Document doc, EnvVar
 TODO
 ----
 
-* Add new operation that replaces strings with regular expressions.
 
 CHANGELOG
 ---------
 
 * v1.4.0 - Adapted for build and tests with newer Jenkins-versions and Maven, added xerces-library
+* v1.4.1 - Added new operation that replaces strings with regular expressions.
 
